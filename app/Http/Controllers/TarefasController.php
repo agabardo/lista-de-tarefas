@@ -16,10 +16,10 @@ class TarefasController extends Controller
       $tarefa->autor = $request->input('autor');
       $tarefa->status = $request->input('status');
       if($tarefa->save()){
-        return "1";
+        return Response("1",201);
       }
       else{
-        return "0";
+        return Response("0",304);
       }
   }
 
@@ -27,21 +27,20 @@ class TarefasController extends Controller
       $tarefa = listaDeTarefas::find($id);
       $tarefa->status = $request->input('status');
       if($tarefa->save()){
-        //return "1";
         return Response()->json($tarefa, 201);
       }
       else{
-        return "0";
+        return Response("0",304);
       }
   }
 
   public function destroy($id){
       $tarefa = listaDeTarefas::find($id);
       if($tarefa->delete()){
-        return "1";
+        return Response("1",200);
       }
       else{
-        return "0";
+        return Response("0",304);
       }
   }
 }
