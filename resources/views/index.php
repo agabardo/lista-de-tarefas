@@ -23,6 +23,7 @@
   </form>
 
   <!-- Use o código a seguir para substituir a tabela e ter um layout mobyle first. -->
+  <!--
   <style>
   .even{background-color: #EFEFEF;}
   .odd{background-color: #DDDDDD;}
@@ -44,9 +45,9 @@
       </div>
     </div>
   </div>
+  -->
 
   <!-- Use o código a seguir para ter um layout desktop first. -->
-  <!--
   <table class="table table-striped">
     <thead><tr><th>X</th><th>Tarefa</th><th>Autor</th><th>Status</th><th>Alterar</th></tr></thead>
     <tbody>
@@ -66,7 +67,6 @@
       </tr>
     </tbody>
   </table>
-  -->
   <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.7/angular.js"></script>
   <script src="js/app.js"></script>
 </body>

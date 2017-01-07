@@ -4,8 +4,15 @@ use Illuminate\Http\Request;
 use Illuminate\Http\Response;
 use App\Http\Requests;
 use App\ListaDeTarefas;
+
 class TarefasController extends Controller
 {
+
+  public function me(){
+      //return Auth::guard('api')->user();
+      return "A";
+  }
+
   public function index(){
       return Response()->json(listaDeTarefas::orderBy('id', 'desc')->get(), 200);
   }
