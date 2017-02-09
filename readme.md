@@ -1,32 +1,27 @@
 # Descrição LaravelSinglePageToDoListWithRest
 <p>Em breve.</p>
+Versão do framework usada nesses arquivos de exemplo: 5.2.45.
+
+A versão do framework usada para criar os arquivos desse repositório é a 5.2.45. Ao portar o mesmo projeto para a versão 5.3.X não enfrentei nenhum tipo de problema. Para usar a versão corrente do framework 5.4.10 use o <a href='https://github.com/agabardo/lista-de-tarefas-5.4'>outro repositório do projeto</a>. Antes de fazer o fork do projeto leia as notas de instalação nesse documento.
+
+
 <img src="https://raw.githubusercontent.com/agabardo/LaravelSinglePageToDoListWithRest/master/public/imgs-github/desktop.jpg" alt="" width='98%' />
 <br/>
 <img src="https://raw.githubusercontent.com/agabardo/LaravelSinglePageToDoListWithRest/master/public/imgs-github/mobile.jpg" alt="" width='98%' />
 # Laravel PHP Framework
-
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
 [![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
 [![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+Laravel é um framework para construção de aplicações web com sintaxe expressiva e elegante. Acreditamos que o desenvolvimento deve ser uma experiência agradável e criativa para ser verdadeiramente satisfatório. Laravel remove tarefas chatas do desenvolvimento facilitando a execução de tarefas comuns usadas na maioria dos projetos da web, como autenticação, roteamento, sessões, filas e armazenamento em cache.
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+O Laravel é acessível e poderoso, fornecendo as ferramentas necessárias para aplicações grandes e robustas. Uma inversão sistema controle/recipiente, sistema de migração expressivo e suporte a testes unitários integrados fornece as ferramentas que você precisa para construir qualquer aplicativo web moderno.
 
-## Official Documentation
+## Documentaçao oficial
+A documentação oficial do Laravel está disponível no [Website do Laravel](http://laravel.com/docs).
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+## Licença
+O Laravel é um software open-source licenciado sob a [MIT license](http://opensource.org/licenses/MIT).
