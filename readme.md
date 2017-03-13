@@ -27,13 +27,14 @@ Obs: nesse repositóio você encontra o arquivo <b>gabardoLaravel2017.bib</b> pa
 
 # Lista de tarefas. Versão do Framework 5.2.45
 
-<p>Esse repositório contém exemplos mostrados no livro Laravel para ninjas, Novatec, 2017 - ISBN: 978-85-7522-550-9. Autor: Ademir Cristiano Gabardo (Chris). Antes de clonar ou fazer o download do repositório leia as instruções de instalação. Para mais detalhes sobre o livro visite o seguinte <a href='https://novatec.com.br/autores/gabardo.php'>link</a>.<br/>
+<p>Esse repositório contém exemplos mostrados no livro Laravel para ninjas, Novatec, 2017 - ISBN: 978-85-7522-550-9. Autor: Ademir Cristiano Gabardo (Chris). Antes de clonar ou fazer o download do repositório leia as instruções de instalação. Para mais detalhes sobre o livro visite o seguinte <a href='http://www.novatec.com.br/livros/laravel-para-ninjas'>link</a>.<br/>
 Por favor, se gostou do livro, marque o repositório com uma estrela, ou melhor ainda, deixe um comentário na <a href='https://novatec.com.br/autores/gabardo.php'>página do livro</a>.
 </p>
 <img width='60%' src="https://raw.githubusercontent.com/agabardo/ola-mundo/master/public/img/imagens-github/Capa-laravel-para-ninjas.png" alt="Laravel para Ninjas - Ademir Gabardo, Novatec -2017"/>
 
 #Outros livros do mesmo autor.
-<img src="https://raw.githubusercontent.com/agabardo/ola-mundo/ea55f49724e01e7c28a83cd2fb2d55b2d41f8c58/public/img/imagens-github/capas.jpg" alt="Capas livros Ademir Gabardo" />
+<a href='https://novatec.com.br/autores/gabardo.php'>
+<img src="https://raw.githubusercontent.com/agabardo/ola-mundo/ea55f49724e01e7c28a83cd2fb2d55b2d41f8c58/public/img/imagens-github/capas.jpg" alt="Capas livros Ademir Gabardo" /></a>
 
 ##Versão do framework usada nesses arquivos de exemplo: 5.2.45.
 
